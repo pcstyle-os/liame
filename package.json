@@ -54,7 +54,7 @@
     "@vitejs/plugin-react": "^6.2.1",
     "ai": "^7.0.163",
     "ai-sdk-provider-codex-cli": "^2.4.0",
-    "electron": "^45.1.0",
+    "electron": "^45.2.3",
     "electron-builder": "^26.18.0",
     "electron-vite": "^6.0.0",
     "lucide-react": "^1.69.0",
